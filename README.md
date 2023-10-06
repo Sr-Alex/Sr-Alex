@@ -3,6 +3,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sr-Alex&theme=slateorange&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Alex&theme=slateorange&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sr-Alex&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
