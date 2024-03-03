@@ -15,13 +15,6 @@ Fazendo curso técnico de DS (Desenvolvimento de Sistemas) 💻;<br> <br>Estudan
 
 ---
 
-## 🌐 Socials:
-[![Exercism](https://img.shields.io/badge/Exercism%20-%20%232e27b8?logo=exercism&link=https%3A%2F%2Fexercism.org%2Fprofiles%2FSrAlexN64)
-](https://exercism.org/profiles/SrAlexN64) [![Whatsapp](https://img.shields.io/badge/Whatsapp%20-%20%23128C7E?logo=whatsapp&link=https%3A%2F%2Fwa.me%2F5581993702088)
-](https://wa.me/5581984258730) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sr_alex64/) 
-
----
-
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
