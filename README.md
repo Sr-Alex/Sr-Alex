@@ -17,7 +17,7 @@ Fazendo curso técnico de DS (Desenvolvimento de Sistemas) 💻;<br> <br>Estudan
 
 ## 🌐 Socials:
 [![Exercism](https://img.shields.io/badge/Exercism%20-%20%232e27b8?logo=exercism&link=https%3A%2F%2Fexercism.org%2Fprofiles%2FSrAlexN64)
-](https://exercism.org/profiles/SrAlexN64) [![Whatsapp](https://img.shields.io/badge/Whatsapp%20-%20%23128C7E?logo=whatsapp&link=https%3A%2F%2Fwa.me%2F5581993207088)
+](https://exercism.org/profiles/SrAlexN64) [![Whatsapp](https://img.shields.io/badge/Whatsapp%20-%20%23128C7E?logo=whatsapp&link=https%3A%2F%2Fwa.me%2F5581993702088)
 ](https://wa.me/5581984258730) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sr_alex64/) 
 
 ---
